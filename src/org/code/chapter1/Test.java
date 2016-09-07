@@ -1,6 +1,6 @@
 package org.code.chapter1;
 class Test{
-	String temp = "Sanjay";
+	String temp = "hello test";
 	
 	public static void main(String args[]){
 		Test newobj = new Test();
