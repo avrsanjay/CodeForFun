@@ -114,7 +114,7 @@ public class RemoveDups {
 				container.put(Integer.parseInt(number), 1);
 			}
 			mylist.insert(Integer.parseInt(number));
-		}
+		} 
 		scanner.close();
 		System.out.println("Linked List:");
 		System.out.println("------------");
